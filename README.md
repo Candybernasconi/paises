@@ -6,7 +6,7 @@ Este proyecto consiste en un sistema desarrollado en Python para gestionar infor
 
 El programa permite agregar, actualizar, buscar, filtrar y ordenar países, además de generar estadísticas sobre la información almacenada.
 
-https://www.youtube.com/watch?v=UyfnWZ5aHTg
+
 
 
 Tecnologías Utilizadas
