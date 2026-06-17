@@ -6,14 +6,8 @@ Este proyecto consiste en un sistema desarrollado en Python para gestionar infor
 
 El programa permite agregar, actualizar, buscar, filtrar y ordenar países, además de generar estadísticas sobre la información almacenada.
 
-Funcionalidades
+https://www.youtube.com/watch?v=UyfnWZ5aHTg
 
-- Agregar países.
-- Actualizar población y superficie.
-- Buscar países por nombre.
-- Filtrar por continente, población o superficie.
-- Ordenar países por nombre, población o superficie.
-- Mostrar estadísticas generales.
 
 Tecnologías Utilizadas
 
